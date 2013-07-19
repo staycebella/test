@@ -1,4 +1,4 @@
 test
 ====
 
-A testrepository
+A test repository
